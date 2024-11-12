@@ -1,0 +1,20 @@
+// Variables
+
+:root
+{
+    --main-color: #142C8E;
+    --second-color: #0070E0;
+    --color: #001435;
+    --light: #acd3fa;
+    --font: Figtree;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: var(--font);
+}
+
+#navbar {
+    background-color: var(--main-color);
+    border: none;
+}
